@@ -304,7 +304,7 @@
 
 	.bg1{
 	margin-bottom: 20px;
-	background-image: url(../img/mv01.png);
+	background-image: url(./img/mv01.png);
 	}
 	.bg1.active{
 			transition: 0.3s;
@@ -313,7 +313,7 @@
 	}
 	.bg2{
 	margin-bottom: 20px;
-	background-image: url(../img/mv02.png);
+	background-image: url(./img/mv02.png);
 	}
 	.bg2.active{
 			transition: 0.3s;
@@ -322,7 +322,7 @@
 	}
 	.bg3{
 	margin-right: 20px;
-	background-image: url(../img/mv03.png);
+	background-image: url(./img/mv03.png);
 	}
 	.bg3.active{
 			transition: 0.3s;
@@ -330,7 +330,7 @@
 		background-image: url(https://blog.kakaocdn.net/dn/bLXKyB/btq9nCDJl0v/ACLrihJdLl1uJcxCKrYIlk/img.gif);
 	}
 	.bg4{
-	background-image: url(../img/mv04.png);
+	background-image: url(./img/mv04.png);
 
 	}
 	.bg4.active{
